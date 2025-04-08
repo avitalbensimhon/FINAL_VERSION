@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\projectSuperMarket.core\projectSuperMarket.core.csproj" />
+    <ProjectReference Include="..\projectSuperMarket.Data\projectSuperMarket.Data.csproj" />
+  </ItemGroup>
+
+</Project>

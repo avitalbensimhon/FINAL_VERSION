@@ -1,0 +1,553 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57C3F96C-00AC-4272-9329-2B6F7EB8B773}|projectSuperMarket.Servies\\projectSuperMarket.Servies.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket.servies\\servies\\supplersservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C3F96C-00AC-4272-9329-2B6F7EB8B773}|projectSuperMarket.Servies\\projectSuperMarket.Servies.csproj|solutionrelative:projectsupermarket.servies\\servies\\supplersservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C3F96C-00AC-4272-9329-2B6F7EB8B773}|projectSuperMarket.Servies\\projectSuperMarket.Servies.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket.servies\\servies\\orderservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C3F96C-00AC-4272-9329-2B6F7EB8B773}|projectSuperMarket.Servies\\projectSuperMarket.Servies.csproj|solutionrelative:projectsupermarket.servies\\servies\\orderservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C3F96C-00AC-4272-9329-2B6F7EB8B773}|projectSuperMarket.Servies\\projectSuperMarket.Servies.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket.servies\\servies\\goodsservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C3F96C-00AC-4272-9329-2B6F7EB8B773}|projectSuperMarket.Servies\\projectSuperMarket.Servies.csproj|solutionrelative:projectsupermarket.servies\\servies\\goodsservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C3F96C-00AC-4272-9329-2B6F7EB8B773}|projectSuperMarket.Servies\\projectSuperMarket.Servies.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket.servies\\servies\\autoorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C3F96C-00AC-4272-9329-2B6F7EB8B773}|projectSuperMarket.Servies\\projectSuperMarket.Servies.csproj|solutionrelative:projectsupermarket.servies\\servies\\autoorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C3F96C-00AC-4272-9329-2B6F7EB8B773}|projectSuperMarket.Servies\\projectSuperMarket.Servies.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket.servies\\servies\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C3F96C-00AC-4272-9329-2B6F7EB8B773}|projectSuperMarket.Servies\\projectSuperMarket.Servies.csproj|solutionrelative:projectsupermarket.servies\\servies\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA782227-1E67-497C-9FD5-E0C93962D601}|projectSuperMarket.Data\\projectSuperMarket.Data.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA782227-1E67-497C-9FD5-E0C93962D601}|projectSuperMarket.Data\\projectSuperMarket.Data.csproj|solutionrelative:projectsupermarket.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA782227-1E67-497C-9FD5-E0C93962D601}|projectSuperMarket.Data\\projectSuperMarket.Data.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket.data\\repository\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA782227-1E67-497C-9FD5-E0C93962D601}|projectSuperMarket.Data\\projectSuperMarket.Data.csproj|solutionrelative:projectsupermarket.data\\repository\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA782227-1E67-497C-9FD5-E0C93962D601}|projectSuperMarket.Data\\projectSuperMarket.Data.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket.data\\repository\\supplersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA782227-1E67-497C-9FD5-E0C93962D601}|projectSuperMarket.Data\\projectSuperMarket.Data.csproj|solutionrelative:projectsupermarket.data\\repository\\supplersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA782227-1E67-497C-9FD5-E0C93962D601}|projectSuperMarket.Data\\projectSuperMarket.Data.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket.data\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA782227-1E67-497C-9FD5-E0C93962D601}|projectSuperMarket.Data\\projectSuperMarket.Data.csproj|solutionrelative:projectsupermarket.data\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA782227-1E67-497C-9FD5-E0C93962D601}|projectSuperMarket.Data\\projectSuperMarket.Data.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket.data\\repository\\goodsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA782227-1E67-497C-9FD5-E0C93962D601}|projectSuperMarket.Data\\projectSuperMarket.Data.csproj|solutionrelative:projectsupermarket.data\\repository\\goodsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket.core\\servies\\isupplersservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|solutionrelative:projectsupermarket.core\\servies\\isupplersservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket.core\\servies\\iorderservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|solutionrelative:projectsupermarket.core\\servies\\iorderservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket.core\\servies\\igoodsservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|solutionrelative:projectsupermarket.core\\servies\\igoodsservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket.core\\repository\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|solutionrelative:projectsupermarket.core\\repository\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket.core\\repository\\isupplersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|solutionrelative:projectsupermarket.core\\repository\\isupplersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket.core\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|solutionrelative:projectsupermarket.core\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket.core\\repository\\igoodsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|solutionrelative:projectsupermarket.core\\repository\\igoodsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket.core\\models\\supplierloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|solutionrelative:projectsupermarket.core\\models\\supplierloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket.core\\models\\supplerspostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|solutionrelative:projectsupermarket.core\\models\\supplerspostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket.core\\models\\orderpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|solutionrelative:projectsupermarket.core\\models\\orderpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket.core\\models\\goodspostmodelorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|solutionrelative:projectsupermarket.core\\models\\goodspostmodelorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket.core\\models\\goodspostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|solutionrelative:projectsupermarket.core\\models\\goodspostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket.core\\entities\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|solutionrelative:projectsupermarket.core\\entities\\suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket.core\\entities\\supplierregistermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|solutionrelative:projectsupermarket.core\\entities\\supplierregistermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket.core\\entities\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|solutionrelative:projectsupermarket.core\\entities\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket.core\\entities\\goods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD0DA5B7-FAEF-44E8-8400-0660EECCE270}|projectSuperMarket.core\\projectSuperMarket.core.csproj|solutionrelative:projectsupermarket.core\\entities\\goods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D9F4DB-6D40-4241-9F7A-DBDEB8A2316F}|projectSuperMarket\\projectSuperMarket.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D9F4DB-6D40-4241-9F7A-DBDEB8A2316F}|projectSuperMarket\\projectSuperMarket.csproj|solutionrelative:projectsupermarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D9F4DB-6D40-4241-9F7A-DBDEB8A2316F}|projectSuperMarket\\projectSuperMarket.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket\\controllers\\supplerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D9F4DB-6D40-4241-9F7A-DBDEB8A2316F}|projectSuperMarket\\projectSuperMarket.csproj|solutionrelative:projectsupermarket\\controllers\\supplerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D9F4DB-6D40-4241-9F7A-DBDEB8A2316F}|projectSuperMarket\\projectSuperMarket.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D9F4DB-6D40-4241-9F7A-DBDEB8A2316F}|projectSuperMarket\\projectSuperMarket.csproj|solutionrelative:projectsupermarket\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D9F4DB-6D40-4241-9F7A-DBDEB8A2316F}|projectSuperMarket\\projectSuperMarket.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket\\controllers\\handlepurchasefromcashiercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D9F4DB-6D40-4241-9F7A-DBDEB8A2316F}|projectSuperMarket\\projectSuperMarket.csproj|solutionrelative:projectsupermarket\\controllers\\handlepurchasefromcashiercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D9F4DB-6D40-4241-9F7A-DBDEB8A2316F}|projectSuperMarket\\projectSuperMarket.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket\\controllers\\goodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D9F4DB-6D40-4241-9F7A-DBDEB8A2316F}|projectSuperMarket\\projectSuperMarket.csproj|solutionrelative:projectsupermarket\\controllers\\goodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D9F4DB-6D40-4241-9F7A-DBDEB8A2316F}|projectSuperMarket\\projectSuperMarket.csproj|c:\\users\\lenovo\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectsupermarket\\projectsupermarket\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D9F4DB-6D40-4241-9F7A-DBDEB8A2316F}|projectSuperMarket\\projectSuperMarket.csproj|solutionrelative:projectsupermarket\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocaldb/project_hadasim/True/SqlTable/dbo.OrdersList.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.Servies\\Servies\\AuthService.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket.Servies\\Servies\\AuthService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.Servies\\Servies\\AuthService.cs",
+              "RelativeToolTip": "projectSuperMarket.Servies\\Servies\\AuthService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwEsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:02:49.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutoOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.Servies\\Servies\\AutoOrderService.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket.Servies\\Servies\\AutoOrderService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.Servies\\Servies\\AutoOrderService.cs",
+              "RelativeToolTip": "projectSuperMarket.Servies\\Servies\\AutoOrderService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:01:51.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GoodsServies.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.Servies\\Servies\\GoodsServies.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket.Servies\\Servies\\GoodsServies.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.Servies\\Servies\\GoodsServies.cs",
+              "RelativeToolTip": "projectSuperMarket.Servies\\Servies\\GoodsServies.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:07:51.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderServies.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.Servies\\Servies\\OrderServies.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket.Servies\\Servies\\OrderServies.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.Servies\\Servies\\OrderServies.cs",
+              "RelativeToolTip": "projectSuperMarket.Servies\\Servies\\OrderServies.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwBgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:43:00.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SupplersServies.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.Servies\\Servies\\SupplersServies.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket.Servies\\Servies\\SupplersServies.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.Servies\\Servies\\SupplersServies.cs",
+              "RelativeToolTip": "projectSuperMarket.Servies\\Servies\\SupplersServies.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:59:13.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SupplersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.Data\\Repository\\SupplersRepository.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket.Data\\Repository\\SupplersRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.Data\\Repository\\SupplersRepository.cs",
+              "RelativeToolTip": "projectSuperMarket.Data\\Repository\\SupplersRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwBkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:29:21.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket.Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.Data\\DataContext.cs",
+              "RelativeToolTip": "projectSuperMarket.Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:52:25.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.Data\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket.Data\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.Data\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "projectSuperMarket.Data\\Repository\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:03:55.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GoodsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.Data\\Repository\\GoodsRepository.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket.Data\\Repository\\GoodsRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.Data\\Repository\\GoodsRepository.cs",
+              "RelativeToolTip": "projectSuperMarket.Data\\Repository\\GoodsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:38:12.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISupplersServies.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Servies\\ISupplersServies.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket.core\\Servies\\ISupplersServies.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Servies\\ISupplersServies.cs",
+              "RelativeToolTip": "projectSuperMarket.core\\Servies\\ISupplersServies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:09:01.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IOrderServies.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Servies\\IOrderServies.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket.core\\Servies\\IOrderServies.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Servies\\IOrderServies.cs",
+              "RelativeToolTip": "projectSuperMarket.core\\Servies\\IOrderServies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:45:40.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGoodsServies.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Servies\\IGoodsServies.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket.core\\Servies\\IGoodsServies.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Servies\\IGoodsServies.cs",
+              "RelativeToolTip": "projectSuperMarket.core\\Servies\\IGoodsServies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:51:36.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SupplierRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.Data\\Repository\\SupplierRepository.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket.Data\\Repository\\SupplierRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.Data\\Repository\\SupplierRepository.cs",
+              "RelativeToolTip": "projectSuperMarket.Data\\Repository\\SupplierRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:06:57.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ISupplersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Repository\\ISupplersRepository.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket.core\\Repository\\ISupplersRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Repository\\ISupplersRepository.cs",
+              "RelativeToolTip": "projectSuperMarket.core\\Repository\\ISupplersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:51:28.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IGoodsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Repository\\IGoodsRepository.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket.core\\Repository\\IGoodsRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Repository\\IGoodsRepository.cs",
+              "RelativeToolTip": "projectSuperMarket.core\\Repository\\IGoodsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:51:23.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SupplersPostModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Models\\SupplersPostModel.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket.core\\Models\\SupplersPostModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Models\\SupplersPostModel.cs",
+              "RelativeToolTip": "projectSuperMarket.core\\Models\\SupplersPostModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:33:51.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderPostModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Models\\OrderPostModel.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket.core\\Models\\OrderPostModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Models\\OrderPostModel.cs",
+              "RelativeToolTip": "projectSuperMarket.core\\Models\\OrderPostModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:31:58.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GoodsPostModelOrders.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Models\\GoodsPostModelOrders.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket.core\\Models\\GoodsPostModelOrders.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Models\\GoodsPostModelOrders.cs",
+              "RelativeToolTip": "projectSuperMarket.core\\Models\\GoodsPostModelOrders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:36:15.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GoodsPostModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Models\\GoodsPostModel.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket.core\\Models\\GoodsPostModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Models\\GoodsPostModel.cs",
+              "RelativeToolTip": "projectSuperMarket.core\\Models\\GoodsPostModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:33:29.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ISupplierRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Repository\\ISupplierRepository.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket.core\\Repository\\ISupplierRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Repository\\ISupplierRepository.cs",
+              "RelativeToolTip": "projectSuperMarket.core\\Repository\\ISupplierRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:05:54.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Suppliers.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Entities\\Suppliers.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket.core\\Entities\\Suppliers.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Entities\\Suppliers.cs",
+              "RelativeToolTip": "projectSuperMarket.core\\Entities\\Suppliers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:44:10.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Repository\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket.core\\Repository\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Repository\\IOrderRepository.cs",
+              "RelativeToolTip": "projectSuperMarket.core\\Repository\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:03:24.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SupplierRegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Entities\\SupplierRegisterModel.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket.core\\Entities\\SupplierRegisterModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Entities\\SupplierRegisterModel.cs",
+              "RelativeToolTip": "projectSuperMarket.core\\Entities\\SupplierRegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:50:47.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SupplierLoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Models\\SupplierLoginModel.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket.core\\Models\\SupplierLoginModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Models\\SupplierLoginModel.cs",
+              "RelativeToolTip": "projectSuperMarket.core\\Models\\SupplierLoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:33:54.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SupplersController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket\\Controllers\\SupplersController.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket\\Controllers\\SupplersController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket\\Controllers\\SupplersController.cs",
+              "RelativeToolTip": "projectSuperMarket\\Controllers\\SupplersController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:47:49.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HandlePurchaseFromCashierController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket\\Controllers\\HandlePurchaseFromCashierController.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket\\Controllers\\HandlePurchaseFromCashierController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket\\Controllers\\HandlePurchaseFromCashierController.cs",
+              "RelativeToolTip": "projectSuperMarket\\Controllers\\HandlePurchaseFromCashierController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:01:02.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GoodsController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket\\Controllers\\GoodsController.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket\\Controllers\\GoodsController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket\\Controllers\\GoodsController.cs",
+              "RelativeToolTip": "projectSuperMarket\\Controllers\\GoodsController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:35:36.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "projectSuperMarket\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:45:55.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket\\Program.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket\\Program.cs",
+              "RelativeToolTip": "projectSuperMarket\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:17:24.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Goods.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Entities\\Goods.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket.core\\Entities\\Goods.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Entities\\Goods.cs",
+              "RelativeToolTip": "projectSuperMarket.core\\Entities\\Goods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:32:48.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Entities\\Orders.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket.core\\Entities\\Orders.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket.core\\Entities\\Orders.cs",
+              "RelativeToolTip": "projectSuperMarket.core\\Entities\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:32:10.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "projectSuperMarket\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D4\u05D3\u05E1\u05D9\u05DD 5\\\u05D7\u05DC\u05E7 \u05D3\\servise\\projectSuperMarket\\projectSuperMarket\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "projectSuperMarket\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:43:08.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "dbo.OrdersList.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocaldb/project_hadasim/True/SqlTable/dbo.OrdersList.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocaldb/project_hadasim/True/SqlTable/dbo.OrdersList.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-07T12:31:40.058Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
